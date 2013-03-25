@@ -5,25 +5,34 @@ ID matches between political organization currently consisting of [Project Vote 
 
 Columns
 ==================
-votesmart_candidate_id
+**votesmart_candidate_id**
 : The `candidate_id` for Project Vote Smart
-crp_id
+
+**crp_id**
 : The `cid` for OpenSecrets.org
-nimsp_candidate_id
+
+**nimsp_candidate_id**
 : The `imsp_candidate_id` for FollowTheMoney.org
-firstname
+
+**firstname**
 : The candidate/official's first given name.
-nickname
+
+**nickname**
 : The candidate/official's first name that the usually go by. (e.g. Richart **'Dick'** Cheney)
-middlename
+
+**middlename**
 : The candidate/official's middle name
-lastname
+
+**lastname**
 : The candidate/official's family name
-suffix
+
+**suffix**
 : The candidate/official's suffix, if they have one.  (e.g. Barack Hussein Obama **II**)
-office_state_id
+
+**office_state_id**
 : Two digit code representing the state the official last held office that is on record at Vote Smart.
-election_state_id
+
+**election_state_id**
 : Two digit code representing the last state the candidate ran in an election that is on record at Vote Smart.
 
 Questions/Additions/Corrections
