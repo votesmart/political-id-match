@@ -14,6 +14,9 @@ Columns
 **nimsp_candidate_id**
 : The `imsp_candidate_id` for FollowTheMoney.org
 
+**nimsp_entity_id**
+: The entity ID for the new verision of the FollowTheMoney.org API.
+
 **firstname**
 : The candidate/official's first given name.
 
