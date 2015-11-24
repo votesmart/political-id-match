@@ -11,6 +11,9 @@ Columns
 **crp_id**
 : The `cid` for OpenSecrets.org
 
+**fec_id**
+: The ID given to the candidate by the Federal Election Commission
+
 **nimsp_candidate_id**
 : The `imsp_candidate_id` for FollowTheMoney.org
 
