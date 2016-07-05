@@ -1,7 +1,7 @@
 political-id-match
 ==================
 
-ID matches between political organization currently consisting of [Project Vote Smart](http://votesmart.org), [OpenSecrets.org(CRP)](http://www.opensecrets.org), and [FollowTheMoney.org(NIMSP)](http://www.followthemoney.org).
+ID matches between political organization currently consisting of [Project Vote Smart](http://votesmart.org), [OpenSecrets.org(CRP)](http://www.opensecrets.org), [FollowTheMoney.org(NIMSP)](http://www.followthemoney.org), and the [Federal Election Commission](http://www.fec.gov/).
 
 Columns
 ==================
